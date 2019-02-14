@@ -20,6 +20,8 @@ public class Elo {
         boolean isTrue = 4 == 4;
         if (a == b || c > b);
         System.out.println();
+        System.out.println("");
+
 
     }
 
