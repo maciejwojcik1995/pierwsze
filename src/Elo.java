@@ -42,10 +42,18 @@ public class Elo {
         int liczba = scanner.nextInt();
 
         System.out.println("Twoje imie to :" + print);
+        /// TODO: 14.02.2019 uzyj petli z iteratorem (int i=........)
         System.out.println("Twoje wspak to :" + print);
+
         System.out.println("ZOstało ci do 100 lat:  " + liczba);
 
         System.out.println("Podaj swoje imie : ");
+
+        System.out.println("Samogłoski z imienia ");
+        System.out.println("Spółgłoski z imienia ");
+        System.out.println("Trzecia litera z imienia to :  ");
+
+
     }
 
 
